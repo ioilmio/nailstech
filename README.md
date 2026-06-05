@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# NailsTech — Sito vetrina noleggio stampante per unghie
 
-## Getting Started
+Sito web a pagina singola (in italiano) per il noleggio della stampante per
+unghie **Sunwin SW-NA03**. È pensato per essere **semplice da modificare** e
+**stampabile in PDF** (pulsante "Scarica PDF" / Stampa del browser).
 
-First, run the development server:
+Realizzato con **Next.js 16**, **TypeScript**, **Tailwind CSS v4** e
+**shadcn/ui**. Pronto per il deploy su **Vercel**.
+
+## Avvio in locale
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Apri [http://localhost:3000](http://localhost:3000) nel browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Come modificare i contenuti
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Tutti i testi, i prezzi, le FAQ e i recapiti sono raccolti in un unico file:
 
-## Learn More
+```
+src/lib/content.ts
+```
 
-To learn more about Next.js, take a look at the following resources:
+Modifica quel file per aggiornare nome attività, tagline, descrizione del
+prodotto, tariffe, passaggi "come funziona", domande frequenti e contatti
+(telefono/WhatsApp ed email). Non serve toccare il codice dei componenti.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+La struttura e lo stile della pagina sono in `src/app/page.tsx`, mentre i colori
+del brand e gli stili di stampa/PDF sono in `src/app/globals.css`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Esportare in PDF
 
-## Deploy on Vercel
+Apri il sito e usa il pulsante **"Scarica PDF"** (oppure `Ctrl/Cmd + P` →
+"Salva come PDF"). Gli stili di stampa nascondono automaticamente i pulsanti e
+ottimizzano il layout su formato A4.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Comandi utili
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm run dev     # server di sviluppo
+npm run build   # build di produzione
+npm run start   # avvia la build di produzione
+npm run lint    # ESLint
+```
+
+## Deploy su Vercel
+
+1. Vai su [vercel.com/new](https://vercel.com/new) e importa questo repository.
+2. Vercel rileva automaticamente Next.js: lascia le impostazioni di default.
+3. Premi **Deploy**. Nessuna variabile d'ambiente è necessaria.
+
+Ad ogni push su `main` Vercel pubblicherà automaticamente la nuova versione.
