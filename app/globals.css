@@ -7,9 +7,9 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-sans);
-  --font-mono: var(--font-geist-mono);
-  --font-heading: var(--font-sans);
+  --font-sans: var(--font-geist-sans, system-ui, sans-serif);
+  --font-mono: var(--font-geist-mono, ui-monospace, monospace);
+  --font-heading: var(--font-geist-sans, system-ui, sans-serif);
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -139,11 +139,15 @@
 @media print {
   @page {
     size: A4;
-    margin: 14mm;
+    margin: 10mm;
   }
 
   html {
-    font-size: 11pt;
+    font-size: 14pt;
+  }
+
+  body {
+    max-width: 100% !important;
   }
 
   *,
@@ -157,7 +161,67 @@
     display: none !important;
   }
 
-  section,
+  /* Show header in print but hide navigation elements */
+  header {
+    display: block !important;
+    position: static !important;
+    border-bottom: none !important;
+    background: transparent !important;
+    padding: 15px 0 !important;
+  }
+
+  header nav,
+  header button,
+  header .flex.items-center.gap-2 {
+    display: none !important;
+  }
+
+  header .flex.max-w-5xl {
+    justify-content: center !important;
+  }
+
+  /* Show footer in print but hide text content, keep logo */
+  footer {
+    display: block !important;
+    padding: 15px 0 !important;
+  }
+
+  footer p {
+    display: none !important;
+  }
+
+  /* Fix Next.js Image components with fill prop in print */
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+    position: static !important;
+    display: block !important;
+    object-fit: contain !important;
+  }
+
+  /* Handle relative containers with fill images */
+  .relative img,
+  [style*="position: relative"] img {
+    position: static !important;
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+  }
+
+  /* Ensure image containers have proper sizing in print */
+  .aspect-16\/10,
+  [class*="aspect-"] {
+    aspect-ratio: auto !important;
+    height: auto !important;
+    min-height: 200px !important;
+  }
+
+  /* Optimize spacing to reduce blank pages */
+  section {
+    padding: 20px 0 !important;
+    break-inside: avoid;
+  }
+
   .avoid-break {
     break-inside: avoid;
   }
@@ -166,6 +230,37 @@
   h2,
   h3 {
     break-after: avoid;
+    margin-top: 15px !important;
+    margin-bottom: 10px !important;
+  }
+
+  h1 {
+    font-size: 24pt !important;
+  }
+
+  h2 {
+    font-size: 20pt !important;
+  }
+
+  h3 {
+    font-size: 16pt !important;
+  }
+
+  p {
+    margin-bottom: 8px !important;
+    font-size: 14pt !important;
+  }
+
+  /* Reduce card padding */
+  .Card,
+  [class*="card"] {
+    padding: 15px !important;
+    break-inside: avoid;
+  }
+
+  /* Optimize grid layouts for print */
+  .grid {
+    gap: 15px !important;
   }
 
   a {
@@ -187,5 +282,32 @@
 
   #contatti a {
     border: 1px solid var(--border) !important;
+  }
+
+  /* Expand all accordion items in print for FAQ visibility */
+  [data-slot="accordion-content"][data-closed] {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  [data-slot="accordion-content"][data-closed] > div {
+    height: auto !important;
+  }
+
+  /* Hide accordion trigger chevron in print */
+  [data-slot="accordion-trigger-icon"] {
+    display: none !important;
+  }
+
+  /* Hide videos in print */
+  video {
+    display: none !important;
+  }
+
+  /* Show video posters as images */
+  video + img,
+  [poster] {
+    display: block !important;
   }
 }

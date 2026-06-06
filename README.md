@@ -1,7 +1,7 @@
 # NailsTech — Sito vetrina noleggio stampante per unghie
 
 Sito web a pagina singola (in italiano) per il noleggio della stampante per
-unghie **Sunwin SW-NA03**. È pensato per essere **semplice da modificare** e
+unghie **NailsTech NT-NA03**. È pensato per essere **semplice da modificare** e
 **stampabile in PDF** (pulsante "Scarica PDF" / Stampa del browser).
 
 Realizzato con **Next.js 16**, **TypeScript**, **Tailwind CSS v4** e
