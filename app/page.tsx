@@ -381,7 +381,7 @@ export default function Home() {
 
             {/* thumbnail gallery */}
             <div className="mt-4 sm:flex gap-3 sm:justify-center grid grid-cols-2">
-              {(["na03-4.jpg","na03-5.jpg", "nao3-2.avif", "na03-3.avif"] as const).map(
+              {(["na03-4.jpg","na03-5.jpg", "1.png", "8.jpg"] as const).map(
                 (src) => (
                   <div
                     key={src}
@@ -408,19 +408,7 @@ export default function Home() {
                   {product.description}
                 </p>
 
-                {/* video demo */}
-                <div className="mt-8 overflow-hidden rounded-2xl border shadow-md">
-                  <video
-                    src="/d.mp4"
-                    poster="/d_poster.jpg"
-                    autoPlay
-                    muted
-                    loop
-                    playsInline
-                    className="block aspect-9/16 w-full object-cover"
-                    aria-label="Demo stampa con NT-NA03"
-                  />
-                </div>
+                {/* video demo placeholder */}
 
                 {/* specifiche tecniche */}
                 <div className="avoid-break mt-8">
@@ -545,16 +533,7 @@ export default function Home() {
                 </div>
 
                 {/* cosa è incluso nel kit */}
-                <div className="avoid-break mt-8 grid gap-5 rounded-xl border bg-card p-5 sm:grid-cols-[210px_1fr] sm:items-center">
-                  <div className="overflow-hidden rounded-lg border bg-muted">
-                    <Image
-                      src="/images.jpeg"
-                      alt="Kit di noleggio NT-NA03 con cartuccia, primer e accessori"
-                      width={420}
-                      height={300}
-                      className="w-full object-contain"
-                    />
-                  </div>
+                <div className="avoid-break mt-8 rounded-xl border bg-card p-5">
                   <div>
                     <p className="flex items-center gap-2 font-semibold text-foreground">
                       <PackageCheck className="size-4 text-primary" />
@@ -590,8 +569,8 @@ export default function Home() {
               <div className="hidden lg:block">
                 <div className="sticky top-24 overflow-hidden rounded-2xl border shadow-md">
                   <Image
-                    src="/digital-nail-art-printing-na03-advantage.webp"
-                    alt="Vantaggi della stampante NT-NA03"
+                    src="/logo-image.png"
+                    alt="NailsTech NT-NA03"
                     width={750}
                     height={750}
                     className="w-full object-cover"
