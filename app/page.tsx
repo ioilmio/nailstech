@@ -75,14 +75,14 @@ export default function Home() {
         <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
           <Link href="#top" className="flex items-center font-semibold">
             {/* <Image
-              src="/logo-image.png"
+              src="logo-image.png"
               alt="NailsTech"
               width={80}
               height={80}
               className="h-12 w-auto rounded-lg object-contain sm:h-10"
             /> */}
             <Image
-              src="/logo-text.png"
+              src="logo-text.png"
               alt="NailsTech"
               width={260}
               height={40}
@@ -250,7 +250,7 @@ export default function Home() {
             <div className="relative mx-auto w-full max-w-md">
               <div className="overflow-hidden rounded-3xl border shadow-2xl ring-1 ring-border">
                 <Image
-                  src="/4.jpg"
+                  src="4.jpg"
                   alt="Nail bar pop-up con stampante NailsTech NT-NA03 a un evento"
                   width={750}
                   height={750}
@@ -388,7 +388,7 @@ export default function Home() {
                     className="overflow-hidden rounded-xl border shadow-sm"
                   >
                     <Image
-                      src={`/${src}`}
+                      src={`${src}`}
                       alt="NT-NA03 dettaglio"
                       width={220}
                       height={220}
@@ -569,7 +569,7 @@ export default function Home() {
               <div className="hidden lg:block">
                 <div className="sticky top-24 overflow-hidden rounded-2xl border shadow-md">
                   <Image
-                    src="/logo-image.png"
+                    src="logo-image.png"
                     alt="NailsTech NT-NA03"
                     width={750}
                     height={750}
@@ -718,7 +718,7 @@ export default function Home() {
           <div className="mx-auto max-w-5xl px-4 py-12 text-center sm:px-6 sm:py-16">
             <div className="flex justify-center">
             <Image
-              src="/logo-image.png"
+              src="logo-image.png"
               alt="NailsTech"
               width={320}
               height={320}
@@ -781,7 +781,7 @@ export default function Home() {
       <footer className="border-t py-8 text-center text-sm text-muted-foreground no-print">
         <div className="mx-auto max-w-5xl px-4">
           <Image
-            src="/logo-full.png"
+            src="logo-full.png"
             alt="NailsTech"
             width={600}
             height={600}

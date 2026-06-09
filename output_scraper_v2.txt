@@ -1,0 +1,209 @@
+============================================================
+RACCOLTA CONTATTI - CENTRI UNGHIE CATANIA
+Google Places API + Selenium Scraping
+============================================================
+
+[Google Places API]
+--------------------------------------------------
+  [Google Places] Text Search: 'centro unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'nail bar Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'manicure Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'ricostruzione unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro estetico unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'salone bellezza unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'spa manicure Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'nail art Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'pedicure Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'smalto semipermanente Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'nails studio Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'unghie gel Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'refill unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'extension ciglia unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'beauty center nails Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro estetico Via Etnea Catania'
+    Trovati: 3 risultati
+  [Google Places] Text Search: 'nail bar Piazza Dante Catania'
+    Trovati: 18 risultati
+  [Google Places] Text Search: 'centro unghie Via dei Crociferi Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'salone bellezza Borgo Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'manicure San Giovanni Galermo Catania'
+    Trovati: 17 risultati
+  [Google Places] Text Search: 'nail art Nesima Catania'
+    Trovati: 3 risultati
+  [Google Places] Text Search: 'centro estetico Picanello Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'unghie Monte Po Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro unghie Acireale'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'nail bar Acireale'
+    Trovati: 19 risultati
+  [Google Places] Text Search: 'manicure Acireale'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro estetico Acireale'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro unghie Misterbianco'
+    Trovati: 9 risultati
+  [Google Places] Text Search: 'nail bar Misterbianco'
+    Trovati: 6 risultati
+  [Google Places] Text Search: 'manicure Misterbianco'
+    Trovati: 19 risultati
+  [Google Places] Text Search: 'centro estetico Misterbianco'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro unghie Paternò'
+    Trovati: 14 risultati
+  [Google Places] Text Search: 'nail bar Paternò'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'manicure Paternò'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro unghie Belpasso'
+    Trovati: 14 risultati
+  [Google Places] Text Search: 'nail bar Belpasso'
+    Trovati: 2 risultati
+  [Google Places] Text Search: 'manicure Belpasso'
+    Trovati: 7 risultati
+  [Google Places] Text Search: 'centro unghie Aci Castello'
+    Trovati: 10 risultati
+  [Google Places] Text Search: 'nail bar Aci Castello'
+    Trovati: 6 risultati
+  [Google Places] Text Search: 'manicure Aci Castello'
+    Trovati: 19 risultati
+  [Google Places] Text Search: 'centro unghie Aci Catena'
+    Trovati: 1 risultati
+  [Google Places] Text Search: 'nail bar Aci Catena'
+    Trovati: 19 risultati
+  [Google Places] Text Search: 'centro unghie San Giovanni La Punta'
+    Trovati: 17 risultati
+  [Google Places] Text Search: 'nail bar San Giovanni La Punta'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro unghie Tremestieri Etneo'
+    Trovati: 15 risultati
+  [Google Places] Text Search: 'centro unghie Gravina di Catania'
+    Trovati: 12 risultati
+  [Google Places] Text Search: 'centro unghie San Gregorio di Catania'
+    Trovati: 5 risultati
+  [Google Places] Text Search: 'centro unghie Mascalucia'
+    Trovati: 7 risultati
+  [Google Places] Text Search: 'centro unghie Nicolosi'
+    Trovati: 3 risultati
+  [Google Places] Text Search: 'salone parrucchiere unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro benessere unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'salone estetico manicure Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'salone manicure pedicure Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro nails e bellezza Catania'
+    Trovati: 7 risultati
+  [Google Places] Text Search: 'nail spa Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'beauty nails Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'nail designer Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'tecnico unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'onycotecnia Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'manicure russa Catania'
+    Trovati: 1 risultati
+  [Google Places] Text Search: 'nail art design Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'gel unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'acrilico unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'copertura unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'sostituzione unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'manicure spa Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'pedicure spa Catania'
+    Trovati: 20 risultati
+
+  Totale contatti validi: 150/309
+
+[PagineGialle.it]
+--------------------------------------------------
+  Ricerca: 'centri unghie'
+    Pagina 1: 0 risultati
+  Ricerca: 'manicure'
+    Pagina 1: 0 risultati
+  Ricerca: 'ricostruzione unghie'
+    Pagina 1: 0 risultati
+  Ricerca: 'centri estetici'
+    Pagina 1: 0 risultati
+  Ricerca: 'nail bar'
+    Pagina 1: 0 risultati
+
+  Totale contatti validi: 0/0
+
+[Treatwell.it]
+--------------------------------------------------
+  Servizio: manicure
+    Trovati: 0 contatti
+  Servizio: pedicure
+    Trovati: 0 contatti
+  Servizio: ricostruzione-unghie
+    Trovati: 0 contatti
+  Servizio: semipermanente
+    Trovati: 0 contatti
+
+  Totale contatti validi: 0/0
+
+[Fresha.com]
+--------------------------------------------------
+
+  Trovati: 0 saloni (0 con telefono)
+  Nota: Fresha spesso richiede login per vedere telefoni
+
+============================================================
+VALIDAZIONE, DEDUPLICAZIONE E FILTRO
+============================================================
+Contatti totali raccolti: 150
+    [FILTRO] Escluso (formazione): Corsi di Ricostruzione Unghie ed Extension Ciglia a Catania Cristina Porto Nails&Lash Academy
+    [FILTRO] Escluso (formazione): Centro estetico "ME" Nails Academy & Artist Tattoo di Anna De Francesco
+    [FILTRO] Escluso (formazione): Santa Adornetto NailsLab & Academy
+    [FILTRO] Escluso (formazione): NAILS ART ACADEMY
+    [FILTRO] Escluso (formazione): Samantha Motta Nails Academy
+    [FILTRO] Escluso (formazione): Eva Academy
+    [FILTRO] Escluso (formazione): BIRICCHINA NAILS ARTICOLI PER LE UNGHIE CORSO-CORSI RICOSTRUZIONE UNGHIE CATANIA - MASCALUCIA - PATERNÒ
+    [FILTRO] Escluso (formazione): Barbie Beauty Academy di Alessia Fisichella
+    [FILTRO] Escluso (formazione): Scuola Master - corsi area estetica
+    [FILTRO] Escluso (formazione): Cristina Coco Beauty Academy
+Dopo filtro formazione: 140
+Contatti unici finali: 140
+
+Breakdown per fonte:
+  - google_places: 140
+
+============================================================
+SALVATAGGIO CONTATTI - 140 trovati
+============================================================
+  ✓ JSON: /home/ioilmio/quadro/nailstech/contatti_catania.json
+  ✓ CSV: /home/ioilmio/quadro/nailstech/contatti_catania.csv
+  ✓ Excel: /home/ioilmio/quadro/nailstech/contatti_catania.xlsx
+============================================================
+
+============================================================
+RACCOLTA COMPLETATA!
+============================================================

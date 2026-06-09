@@ -1,0 +1,105 @@
+============================================================
+RACCOLTA CONTATTI - CENTRI UNGHIE CATANIA
+Google Places API + Selenium Scraping
+============================================================
+
+[Google Places API]
+--------------------------------------------------
+  [Google Places] Text Search: 'centro unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'nail bar Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'manicure Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'ricostruzione unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro estetico unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'salone bellezza unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'spa manicure Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'nail art Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'pedicure Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'smalto semipermanente Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'salone parrucchiere unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'centro benessere unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'nails studio Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'unghie gel Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'refill unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'extension ciglia unghie Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'salone estetico manicure Catania'
+    Trovati: 20 risultati
+  [Google Places] Text Search: 'beauty center nails Catania'
+    Trovati: 20 risultati
+
+  Totale contatti validi: 49/76
+
+[PagineGialle.it]
+--------------------------------------------------
+  Ricerca: 'centri unghie'
+    Pagina 1: 0 risultati
+  Ricerca: 'manicure'
+    Pagina 1: 0 risultati
+  Ricerca: 'ricostruzione unghie'
+    Pagina 1: 0 risultati
+  Ricerca: 'centri estetici'
+    Pagina 1: 0 risultati
+  Ricerca: 'nail bar'
+    Pagina 1: 0 risultati
+
+  Totale contatti validi: 0/0
+
+[Treatwell.it]
+--------------------------------------------------
+  Servizio: manicure
+    Trovati: 0 contatti
+  Servizio: pedicure
+    Trovati: 0 contatti
+  Servizio: ricostruzione-unghie
+    Trovati: 0 contatti
+  Servizio: semipermanente
+    Trovati: 0 contatti
+
+  Totale contatti validi: 0/0
+
+[Fresha.com]
+--------------------------------------------------
+
+  Trovati: 0 saloni (0 con telefono)
+  Nota: Fresha spesso richiede login per vedere telefoni
+
+============================================================
+VALIDAZIONE, DEDUPLICAZIONE E FILTRO
+============================================================
+Contatti totali raccolti: 49
+    [FILTRO] Escluso (formazione): Corsi di Ricostruzione Unghie ed Extension Ciglia a Catania Cristina Porto Nails&Lash Academy
+    [FILTRO] Escluso (formazione): Centro estetico "ME" Nails Academy & Artist Tattoo di Anna De Francesco
+    [FILTRO] Escluso (formazione): Santa Adornetto NailsLab & Academy
+    [FILTRO] Escluso (formazione): NAILS ART ACADEMY
+Dopo filtro formazione: 45
+Contatti unici finali: 45
+
+Breakdown per fonte:
+  - google_places: 45
+
+============================================================
+SALVATAGGIO CONTATTI - 45 trovati
+============================================================
+  ✓ JSON: /home/ioilmio/quadro/nailstech/contatti_catania.json
+  ✓ CSV: /home/ioilmio/quadro/nailstech/contatti_catania.csv
+  ✓ Excel: /home/ioilmio/quadro/nailstech/contatti_catania.xlsx
+============================================================
+
+============================================================
+RACCOLTA COMPLETATA!
+============================================================

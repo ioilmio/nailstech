@@ -1,0 +1,2564 @@
+{
+  "metadata": {
+    "data_generazione": "2026-06-08T17:42:14.103885",
+    "totale_contatti": 134,
+    "contatti_rating_4": 122,
+    "area": "Catania e dintorni (40km)",
+    "servizio_target": "noleggio stampante unghie",
+    "fonti": [
+      "google_places",
+      "paginegialle.it",
+      "treatwell.it",
+      "fresha.com"
+    ],
+    "filtraggio": "rimossi contatti medici/farmacie"
+  },
+  "contatti": [
+    {
+      "nome_salone": "TRISCELE Beauty",
+      "responsabile": "",
+      "cellulare": "+393275464407",
+      "indirizzo": "Piazza Giovanni Verga, 14, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.triscelebeauty.com/",
+      "rating": 4.8,
+      "user_ratings_total": 100,
+      "place_id": "ChIJDQM8H5j8ExMRPwBbcGc2t5I",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:18.035791"
+    },
+    {
+      "nome_salone": "Esthena Nails e Benessere",
+      "responsabile": "",
+      "cellulare": "+393335469382",
+      "indirizzo": "Via Umberto I, 156, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.7,
+      "user_ratings_total": 71,
+      "place_id": "ChIJUUNPUMz8ExMR3T7tT3tqYf0",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:18.682947"
+    },
+    {
+      "nome_salone": "Il Sogno della Bellezza - Centro Estetico a Catania",
+      "responsabile": "",
+      "cellulare": "+393453938087",
+      "indirizzo": "Via delle Viole, 3/5, 95124 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.ilsognodellabellezza.it/",
+      "rating": 5,
+      "user_ratings_total": 170,
+      "place_id": "ChIJCx9AJ3vjExMR_HbC6kPF7PA",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:19.188684"
+    },
+    {
+      "nome_salone": "Il Sogno di ogni donna | Centro estetico Catania",
+      "responsabile": "",
+      "cellulare": "+393714480449",
+      "indirizzo": "Viale Vittorio Veneto, 161/interno P, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://ilsognodiognidonna.it/",
+      "rating": 4.6,
+      "user_ratings_total": 130,
+      "place_id": "ChIJATsEHKD9ExMRkpO-9n66WRE",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:19.502151"
+    },
+    {
+      "nome_salone": "Aesthetic beauty boutique 美人阁&容貌管理",
+      "responsabile": "",
+      "cellulare": "+393279408287",
+      "indirizzo": "Via Umberto, 128, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 3.4,
+      "user_ratings_total": 38,
+      "place_id": "ChIJ9wuTwUT9ExMRs3-2zUsWmIk",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:20.596222"
+    },
+    {
+      "nome_salone": "Glamour Sole e Bellezza",
+      "responsabile": "",
+      "cellulare": "+393471079312",
+      "indirizzo": "Via Gelso Bianco, 95121 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.glamoursolebellezza.it/",
+      "rating": 4.1,
+      "user_ratings_total": 222,
+      "place_id": "ChIJzyV5qmPiExMRbIRI2TGw0nQ",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:21.235286"
+    },
+    {
+      "nome_salone": "Bioperla - Centro Estetico a Catania",
+      "responsabile": "",
+      "cellulare": "+393395929992",
+      "indirizzo": "V.le Alcide De Gasperi, 243, 95126 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://bioperla.it/",
+      "rating": 5,
+      "user_ratings_total": 121,
+      "place_id": "ChIJTb2nyCD9ExMRmTjtAIzNH7s",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:22.537567"
+    },
+    {
+      "nome_salone": "Elite Estetica",
+      "responsabile": "",
+      "cellulare": "+393427675185",
+      "indirizzo": "Via Principe Nicola, 37, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.8,
+      "user_ratings_total": 111,
+      "place_id": "ChIJJXVaabj8ExMR1nl9hNvwsEg",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:23.248158"
+    },
+    {
+      "nome_salone": "Om Estetica",
+      "responsabile": "",
+      "cellulare": "+393928407565",
+      "indirizzo": "Piazza giuseppe sciuti, 13, 95131 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.omestetica.it/",
+      "rating": 5,
+      "user_ratings_total": 26,
+      "place_id": "ChIJxc7LMdzjExMRd6I5QhpfmMQ",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:23.849184"
+    },
+    {
+      "nome_salone": "LM Beauty nails",
+      "responsabile": "",
+      "cellulare": "+393713360782",
+      "indirizzo": "95124 Catania, Metropolitan city of Catania, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.4,
+      "user_ratings_total": 12,
+      "place_id": "ChIJE7HKPLz8ExMRguGh-87IlCE",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:25.078420"
+    },
+    {
+      "nome_salone": "MIDA nail care",
+      "responsabile": "",
+      "cellulare": "+393290646988",
+      "indirizzo": "Via Stazzone, 167, 95123 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://mymida.it/",
+      "rating": 4.9,
+      "user_ratings_total": 69,
+      "place_id": "ChIJUx5of6_jExMRc4lHWO4O-DY",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:25.514569"
+    },
+    {
+      "nome_salone": "WOW BEAUTY BAR: Centro estetico & Academia di Tanya & Olga Sindeeva",
+      "responsabile": "",
+      "cellulare": "+393355405415",
+      "indirizzo": "Largo Bordighera, 59, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.9,
+      "user_ratings_total": 423,
+      "place_id": "ChIJVVXxvcT8ExMRdI8b0irZrhU",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:25.839017"
+    },
+    {
+      "nome_salone": "Nail Salon di Ylenia Torrisi",
+      "responsabile": "",
+      "cellulare": "+393932779198",
+      "indirizzo": "Via Caronda, 39, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 3,
+      "place_id": "ChIJaThB9NX9ExMRjo-qEDXgWNM",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:28.270194"
+    },
+    {
+      "nome_salone": "GV Place - Rinascente",
+      "responsabile": "",
+      "cellulare": "+393312942906",
+      "indirizzo": "Via Etnea, 159, 95124 Catania CT, Italy",
+      "categoria": "establishment, hair_care",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.giovanniventura.com/",
+      "rating": 4.5,
+      "user_ratings_total": 94,
+      "place_id": "ChIJAZxLfhfjExMRLf1D1t8EHGg",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:29.233625"
+    },
+    {
+      "nome_salone": "Onico N𝒂𝒊𝒍𝒔 beauty Lab",
+      "responsabile": "",
+      "cellulare": "+393791601727",
+      "indirizzo": "Via Passo di Aci, 79, 95128 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.nicotraesteticastore.com/centro-estetico-oniconails-beauty-lab/",
+      "rating": 4.4,
+      "user_ratings_total": 14,
+      "place_id": "ChIJdw5rNa39ExMR2NNxtfLOlWY",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:29.721914"
+    },
+    {
+      "nome_salone": "VyBi Nails Catania di Viviana Barbagallo",
+      "responsabile": "",
+      "cellulare": "+393270325417",
+      "indirizzo": "Via Susanna, 34/36, 95123 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://vybishop.it/",
+      "rating": 4.6,
+      "user_ratings_total": 9,
+      "place_id": "ChIJPZ1OhRD9ExMRkY4pGrOu5h0",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:30.166399"
+    },
+    {
+      "nome_salone": "Blossom beauty & spa",
+      "responsabile": "",
+      "cellulare": "+393477494303",
+      "indirizzo": "Via Umberto I, 344, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.tiktok.com/@blossom.beauty.spa.ct/video/7276774164529188128",
+      "rating": 4.6,
+      "user_ratings_total": 30,
+      "place_id": "ChIJRSVBmwX9ExMRx9Tpi00bL0E",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:30.497037"
+    },
+    {
+      "nome_salone": "Coquette Wellness & Beauty - Catania",
+      "responsabile": "",
+      "cellulare": "+393899923613",
+      "indirizzo": "Via Vittorio Emanuele Orlando, 144, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://spa.massage.ivof.com/coquette-wellness-beauty/",
+      "rating": 4.8,
+      "user_ratings_total": 32,
+      "place_id": "ChIJp69xu2n9ExMRYQvhIwOHqOY",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:32.845915"
+    },
+    {
+      "nome_salone": "Centro Valclè Beauty & Pilates",
+      "responsabile": "",
+      "cellulare": "+393477090169",
+      "indirizzo": "Via Androne, 5, 95124 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://centrovalclbeautyepilates.it/",
+      "rating": 4.9,
+      "user_ratings_total": 81,
+      "place_id": "ChIJ3SA83XbjExMRkVCJXwI7i1g",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:33.264605"
+    },
+    {
+      "nome_salone": "Just Beauty",
+      "responsabile": "",
+      "cellulare": "+393445480767",
+      "indirizzo": "Viale Ruggero di Lauria, 19, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://bio.site/JustBeauty",
+      "rating": 5,
+      "user_ratings_total": 73,
+      "place_id": "ChIJQWOaQQD9ExMRSeDswlhUsZQ",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:33.882847"
+    },
+    {
+      "nome_salone": "Centro Estetico EstèRelax Beauty&Nails",
+      "responsabile": "",
+      "cellulare": "+393711122241",
+      "indirizzo": "Via Giovanni Fattori, 7/9, 95125 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.esterelax.com/",
+      "rating": 4.8,
+      "user_ratings_total": 101,
+      "place_id": "ChIJtZcuOBz9ExMRqOdJdOANe-E",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:35.915931"
+    },
+    {
+      "nome_salone": "Accademia Nicotra Catania",
+      "responsabile": "",
+      "cellulare": "+393922467469",
+      "indirizzo": "Via Padova, 45, 95127 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.nicotraesteticastore.com/",
+      "rating": 4.9,
+      "user_ratings_total": 1105,
+      "place_id": "ChIJ4bDofM_8ExMR9vtaDKumC7Y",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:36.600138"
+    },
+    {
+      "nome_salone": "Manara Maria - Ricostruzione unghia",
+      "responsabile": "",
+      "cellulare": "+393469475099",
+      "indirizzo": "Via Giordano Bruno, 95131 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": null,
+      "user_ratings_total": null,
+      "place_id": "ChIJsbbqVC3jExMRkLXPut29ack",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:37.033198"
+    },
+    {
+      "nome_salone": "Studio Estetica",
+      "responsabile": "",
+      "cellulare": "+393208165715",
+      "indirizzo": "Viale Mario Rapisardi, 450, 95123 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.2,
+      "user_ratings_total": 5,
+      "place_id": "ChIJEYUGL5DjExMRUuwxi3Qx7yQ",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:39.164238"
+    },
+    {
+      "nome_salone": "Cristina Giuffrida Beauty Salon",
+      "responsabile": "",
+      "cellulare": "+393516808430",
+      "indirizzo": "Via Ammiraglio Caracciolo, 19, 95123 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.cristinagiuffridabeauty.it/",
+      "rating": 4.8,
+      "user_ratings_total": 44,
+      "place_id": "ChIJQxi53WfjExMRWxa1tnXNTac",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:41.138588"
+    },
+    {
+      "nome_salone": "Istituto di Bellezza di Santina Frazzetta",
+      "responsabile": "",
+      "cellulare": "+393939349220",
+      "indirizzo": "Via dei Miti, 9, 95100 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.santinafrazzetta.it/",
+      "rating": 4.8,
+      "user_ratings_total": 70,
+      "place_id": "ChIJw96OSwP5ExMRcy2YOeeNS-E",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:41.548150"
+    },
+    {
+      "nome_salone": "Namastè La Bottega Della Bellezza",
+      "responsabile": "",
+      "cellulare": "+393456356305",
+      "indirizzo": "Via Pietra dell'Ova, 264, 95125 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 36,
+      "place_id": "ChIJ7YGJzOX8ExMRxC_mxPA6p94",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:41.876472"
+    },
+    {
+      "nome_salone": "Infinity Relax, estetica e benessere",
+      "responsabile": "",
+      "cellulare": "+393938188193",
+      "indirizzo": "Stradale Primosole, Str. XVIII, 44, 95121 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.infinityrelax.com/",
+      "rating": 4.6,
+      "user_ratings_total": 112,
+      "place_id": "ChIJI6U26DriExMRCGDZeC-uUC0",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:43.964794"
+    },
+    {
+      "nome_salone": "Charme & Relax - Catania",
+      "responsabile": "",
+      "cellulare": "+393468568578",
+      "indirizzo": "Via Tripolitania, 21, 95127 Catania CT, Italy",
+      "categoria": "establishment, health",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://spa.massage.ivof.com/charme-relax/",
+      "rating": 4.7,
+      "user_ratings_total": 179,
+      "place_id": "ChIJZyr6X8X8ExMRosVOVXR-tl8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:44.431714"
+    },
+    {
+      "nome_salone": "Selen Beauty e Spa - Catania",
+      "responsabile": "",
+      "cellulare": "+393385849751",
+      "indirizzo": "Via Simeto, 18, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://spa.massage.ivof.com/selen-beauty-e-spa/",
+      "rating": 3.8,
+      "user_ratings_total": 21,
+      "place_id": "ChIJAepYJMv8ExMRm4NaBenGVEc",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:45.968974"
+    },
+    {
+      "nome_salone": "Stella Nails Art",
+      "responsabile": "",
+      "cellulare": "+393755151706",
+      "indirizzo": "Via Duca Degli Abruzzi, 173a, 95126 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.instagram.com/stella_nails_art/",
+      "rating": 5,
+      "user_ratings_total": 3,
+      "place_id": "ChIJo2k17gn9ExMR9c1MQ-Y9zyo",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:48.055756"
+    },
+    {
+      "nome_salone": "Ottava Nota Estetica",
+      "responsabile": "",
+      "cellulare": "+393208659625",
+      "indirizzo": "Via Palmanova, 1A, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.ottavanotaestetica.com/",
+      "rating": 4.9,
+      "user_ratings_total": 326,
+      "place_id": "ChIJW6Qmybz9ExMRKSxsNDe1_8I",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:50.785017"
+    },
+    {
+      "nome_salone": "Vanità",
+      "responsabile": "",
+      "cellulare": "+393493730424",
+      "indirizzo": "Via Cave Villarà, 17, 95123 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.centroesteticovanita.it/",
+      "rating": 4.8,
+      "user_ratings_total": 92,
+      "place_id": "ChIJX0NJecziExMR5ts0umvkzI0",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:51.477108"
+    },
+    {
+      "nome_salone": "Laser & Beauty",
+      "responsabile": "",
+      "cellulare": "+393451754364",
+      "indirizzo": "Via Filippo Corridoni, 28, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://laserbeautyestetica.com/",
+      "rating": 4.9,
+      "user_ratings_total": 109,
+      "place_id": "ChIJgw15HBr9ExMRUpJg5w9vn9U",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:52.020405"
+    },
+    {
+      "nome_salone": "Alessia Marino - Beauty & Brows II",
+      "responsabile": "",
+      "cellulare": "+393475669954",
+      "indirizzo": "Viale Jonio, 51-53, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.alessiamarinopmu.it/",
+      "rating": 4.7,
+      "user_ratings_total": 60,
+      "place_id": "ChIJ2fB65cj9ExMRgwMPi4yfn7w",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:54.583262"
+    },
+    {
+      "nome_salone": "Venus al Plaza",
+      "responsabile": "",
+      "cellulare": "+393513375075",
+      "indirizzo": "Viale Ruggero di Lauria, 45, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.facebook.com/profile.php?id=100088958973624",
+      "rating": 4.5,
+      "user_ratings_total": 26,
+      "place_id": "ChIJs9Ofgpv9ExMRL6VaQLx3Ahg",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:54.870078"
+    },
+    {
+      "nome_salone": "XOXO Nailslab",
+      "responsabile": "",
+      "cellulare": "+393513474401",
+      "indirizzo": "Via Giuseppe Garibaldi, 281/283, 95122 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.xoxonailslabacademy.com/",
+      "rating": null,
+      "user_ratings_total": null,
+      "place_id": "ChIJy94s-1LjExMR6wtfoXaF9Uo",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:56.786541"
+    },
+    {
+      "nome_salone": "Nails Aesthetic Studio Erika Dei Pieri",
+      "responsabile": "",
+      "cellulare": "+393471086106",
+      "indirizzo": "Via S. Benedetto, 2/4, 95028 Maugeri CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 31,
+      "place_id": "ChIJkWZFjXX_ExMRfUM1FWmqong",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:57.242363"
+    },
+    {
+      "nome_salone": "CRYSTAL NAILS CATANIA",
+      "responsabile": "",
+      "cellulare": "+393929151219",
+      "indirizzo": "Via della Regione, 188/A, 95037 San Giovanni la Punta CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.facebook.com/cataniacrystalnails/",
+      "rating": 4.5,
+      "user_ratings_total": 17,
+      "place_id": "ChIJMcHDBXr9ExMRHWL0OT8E0a4",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:54:57.783470"
+    },
+    {
+      "nome_salone": "Extension ciglia Catania",
+      "responsabile": "",
+      "cellulare": "+393248882599",
+      "indirizzo": "Via Lavatoio, 95030 Sant'Agata li Battiati CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 60,
+      "place_id": "ChIJr08nUzT9ExMRfMNMU9YpNZI",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:03.487163"
+    },
+    {
+      "nome_salone": "Lilium Lashbar Extension Ciglia Catania",
+      "responsabile": "",
+      "cellulare": "+393248882508",
+      "indirizzo": "Via del Bosco, 157, 95125 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.facebook.com/liliumlashbarcatania/",
+      "rating": 5,
+      "user_ratings_total": 1,
+      "place_id": "ChIJ5dwb6-z9ExMR852Jo2SxjYw",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:05.038855"
+    },
+    {
+      "nome_salone": "Glow up",
+      "responsabile": "",
+      "cellulare": "+393475533962",
+      "indirizzo": "Via Enrico Cosenz, 10, 95123 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 7,
+      "place_id": "ChIJC6VxOPLjExMRyikFfUh1uDE",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:05.560851"
+    },
+    {
+      "nome_salone": "Care Beauty Nails Catania",
+      "responsabile": "",
+      "cellulare": "+393463000907",
+      "indirizzo": "Via Saglietti, 1/E, 95125 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.carebeautynails.it/",
+      "rating": 5,
+      "user_ratings_total": 13,
+      "place_id": "ChIJFzVEhpj9ExMRNfg2KHb86u0",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:07.523644"
+    },
+    {
+      "nome_salone": "Angel Nails Makeup Catania",
+      "responsabile": "",
+      "cellulare": "+393883405218",
+      "indirizzo": "Via Plebiscito, 586, 95124 Catania CT, Italy",
+      "categoria": "establishment, health",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.facebook.com/federikabelluso",
+      "rating": 4.9,
+      "user_ratings_total": 7,
+      "place_id": "ChIJD9zh4dbiExMRDdvcc2MqyZM",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:08.009446"
+    },
+    {
+      "nome_salone": "Giulia Nails Bar",
+      "responsabile": "",
+      "cellulare": "+393505929438",
+      "indirizzo": "Via Gaetano Daita, 23, 90139 Palermo PA, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.giulianailsbar.com/",
+      "rating": 4.4,
+      "user_ratings_total": 72,
+      "place_id": "ChIJFUYXXE7vGRMRyduceblDXYA",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:13.648444"
+    },
+    {
+      "nome_salone": "RV Beauty",
+      "responsabile": "",
+      "cellulare": "+393279165658",
+      "indirizzo": "Via Antonino di Sangiuliano, 27/C, 95030 Sant'Agata li Battiati CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.8,
+      "user_ratings_total": 68,
+      "place_id": "ChIJc-73Van9ExMR_i8Rqu1OU8Q",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:14.581943"
+    },
+    {
+      "nome_salone": "TRÈS CHIC",
+      "responsabile": "",
+      "cellulare": "+393342040715",
+      "indirizzo": "Via Dottor Consoli, 78, 95124 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.6,
+      "user_ratings_total": 30,
+      "place_id": "ChIJLwqDG9XiExMRZkq-vrQlgpk",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:17.332119"
+    },
+    {
+      "nome_salone": "Antonella Beauty Specialist - Centro Estetico",
+      "responsabile": "",
+      "cellulare": "+393477720084",
+      "indirizzo": "Via Generale Maravigna, 7, 95124 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.antonellabeautyspecialist.com/",
+      "rating": 4.8,
+      "user_ratings_total": 42,
+      "place_id": "ChIJH1-pqjvjExMRe1g9QOqTxdc",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:18.320905"
+    },
+    {
+      "nome_salone": "Horus Beauty di Maria Lanzafame",
+      "responsabile": "",
+      "cellulare": "+393474090312",
+      "indirizzo": "Corso Martiri della Libertà, 42, 95131 Catania CT, Italy",
+      "categoria": "establishment, hair_care",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 27,
+      "place_id": "ChIJB1oflYPjExMRyELIud8Dg4w",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:19.641783"
+    },
+    {
+      "nome_salone": "Bellezza & Capelli",
+      "responsabile": "",
+      "cellulare": "+393486430599",
+      "indirizzo": "Via Cesare Vivante, 19, 95123 Catania CT, Italy",
+      "categoria": "establishment, hair_care",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.8,
+      "user_ratings_total": 17,
+      "place_id": "ChIJ35SFaqX9ExMRqAMolf4Yd9k",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:22.508074"
+    },
+    {
+      "nome_salone": "Bellezza & Capelli",
+      "responsabile": "",
+      "cellulare": "+393384801639",
+      "indirizzo": "Via Stazzone, 158/A, 95124 Catania CT, Italy",
+      "categoria": "establishment, hair_care",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 27,
+      "place_id": "ChIJrVXfbQzjExMRa6Gip0R4CKc",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:24.284132"
+    },
+    {
+      "nome_salone": "Il Sogno di ogni donna Via Nuovalucello | Centro Estetico Catania",
+      "responsabile": "",
+      "cellulare": "+393516090139",
+      "indirizzo": "Via Nuovalucello, 154 P, 95126 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://ilsognodiognidonna.it/",
+      "rating": 4.9,
+      "user_ratings_total": 34,
+      "place_id": "ChIJ-Wty62r9ExMRPCbZDEMwZ-U",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:24.579839"
+    },
+    {
+      "nome_salone": "Fantasia & Bellezza",
+      "responsabile": "",
+      "cellulare": "+393471048953",
+      "indirizzo": "Via Umberto I, 227, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 2.9,
+      "user_ratings_total": 37,
+      "place_id": "ChIJuYDoPcz8ExMRqFY3lMeLy0o",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:24.874839"
+    },
+    {
+      "nome_salone": "Centro estetico Estè Beuty Point di Melina Conforto",
+      "responsabile": "",
+      "cellulare": "+393921463889",
+      "indirizzo": "Piazza Europa, 4, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.facebook.com/centroesteticoesteacatania/",
+      "rating": 3.9,
+      "user_ratings_total": 8,
+      "place_id": "ChIJq6q6mLf8ExMRmfUX8G6UoO0",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:33.239689"
+    },
+    {
+      "nome_salone": "Altea Beauty Concept",
+      "responsabile": "",
+      "cellulare": "+393317185734",
+      "indirizzo": "Via Martino Cilestri, 50, 95129 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 16,
+      "place_id": "ChIJjUfcfZb9ExMRZlP8O9hEUyo",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:33.753164"
+    },
+    {
+      "nome_salone": "BodyFaceStudio by Brigida Maugeri",
+      "responsabile": "",
+      "cellulare": "+393496837650",
+      "indirizzo": "Via Malta, 92, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://brigidamaugeri.com/",
+      "rating": 4.9,
+      "user_ratings_total": 158,
+      "place_id": "ChIJK9J7P8b8ExMRDxYfFAuwhKE",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:34.132626"
+    },
+    {
+      "nome_salone": "Eidoss Estetica Centro Estetico Catania",
+      "responsabile": "",
+      "cellulare": "+393465309089",
+      "indirizzo": "V.le Alcide De Gasperi, 79, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.5,
+      "user_ratings_total": 14,
+      "place_id": "ChIJGVbrvrn8ExMR4H53XyKexh8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:34.726783"
+    },
+    {
+      "nome_salone": "Maika'i Grazia Monaco",
+      "responsabile": "",
+      "cellulare": "+393388615355",
+      "indirizzo": "Via del Rotolo, 44, 95126 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 12,
+      "place_id": "ChIJywvsM7f9ExMRYW3Cis3-Rk8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:35.046850"
+    },
+    {
+      "nome_salone": "Armonia Donna",
+      "responsabile": "",
+      "cellulare": "+393493582474",
+      "indirizzo": "Via Pasubio, 36, 95127 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://armoniadonna.it/",
+      "rating": 5,
+      "user_ratings_total": 13,
+      "place_id": "ChIJy3b-c8z9ExMRz7HszBv4E2U",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:35.358988"
+    },
+    {
+      "nome_salone": "Nails My Passion di Valentina A. Coco",
+      "responsabile": "",
+      "cellulare": "+393494591007",
+      "indirizzo": "Via John Fitzgerald Kennedy, 56n, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.9,
+      "user_ratings_total": 43,
+      "place_id": "ChIJf2QmTgP5ExMRDfFX4Pd59J8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:38.699045"
+    },
+    {
+      "nome_salone": "Beauty Zone Agata Pellegrino",
+      "responsabile": "",
+      "cellulare": "+393282944219",
+      "indirizzo": "Corso Italia, 95, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.beautyzoneacireale.it/",
+      "rating": 4.9,
+      "user_ratings_total": 268,
+      "place_id": "ChIJ44Tqlgb5ExMRVsVDk0aypR8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:39.006234"
+    },
+    {
+      "nome_salone": "Oasi Del Benessere Centro Estetico Di Jenny Spinella",
+      "responsabile": "",
+      "cellulare": "+393401894031",
+      "indirizzo": "Via Ludovico Ariosto, 27B, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://oasidelbenessereacireale.it/",
+      "rating": 4.7,
+      "user_ratings_total": 32,
+      "place_id": "ChIJS5xhbhr5ExMRAKHqtN0krRk",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:39.291524"
+    },
+    {
+      "nome_salone": "Reale Benessere centro commerciale Ciclope",
+      "responsabile": "",
+      "cellulare": "+393514585161",
+      "indirizzo": "Via Madonna delle Grazie, 1, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 21,
+      "place_id": "ChIJYWLqdAD5ExMR9hgp3xsdGF0",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:39.796903"
+    },
+    {
+      "nome_salone": "Marilù Nails",
+      "responsabile": "",
+      "cellulare": "+393341990161",
+      "indirizzo": "Via Salvatore Vigo, 149, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.7,
+      "user_ratings_total": 23,
+      "place_id": "ChIJ859IahL5ExMRMNzKDRosuL0",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:40.297181"
+    },
+    {
+      "nome_salone": "NailSensation",
+      "responsabile": "",
+      "cellulare": "+393279359213",
+      "indirizzo": "Via Grassi Bertazzi, 48, 95024 Acireale CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 14,
+      "place_id": "ChIJwWbj6lT5ExMRVZmNqS40Fco",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:41.718523"
+    },
+    {
+      "nome_salone": "L'Essenza del Benessere",
+      "responsabile": "",
+      "cellulare": "+393285982218",
+      "indirizzo": "Largo Monsignor Biagio Catania, 11, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.essenzadelbenessere.net/",
+      "rating": 5,
+      "user_ratings_total": 27,
+      "place_id": "ChIJR498LPf5ExMRvDDLl9nCgKw",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:42.024941"
+    },
+    {
+      "nome_salone": "Il tempio della bellezza di Chiara Bonfiglio",
+      "responsabile": "",
+      "cellulare": "+393926964393",
+      "indirizzo": "Via Provinciale Per Santa Maria Ammalati, 8a/8b, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.facebook.com/iltempiodellabellezzadichiarabonfiglio/",
+      "rating": 5,
+      "user_ratings_total": 21,
+      "place_id": "ChIJ_dEAdrX_ExMR-54p0jWFeFg",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:42.518023"
+    },
+    {
+      "nome_salone": "Lo Scrigno del Benessere",
+      "responsabile": "",
+      "cellulare": "+393270440457",
+      "indirizzo": "Via John Fitzgerald Kennedy, 51, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://loscrignodelbenessere.com/",
+      "rating": 5,
+      "user_ratings_total": 12,
+      "place_id": "ChIJZz0h43b5ExMR5BfbUZLQtbA",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:43.101983"
+    },
+    {
+      "nome_salone": "BeBeauty - Body Concept",
+      "responsabile": "",
+      "cellulare": "+393456002854",
+      "indirizzo": "Via Jacopone da Todi, 16/18, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.9,
+      "user_ratings_total": 27,
+      "place_id": "ChIJLQP2idb5ExMRQlh8xaReLUg",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:43.412627"
+    },
+    {
+      "nome_salone": "CHARMESTÉ Di Ilenja Tropea",
+      "responsabile": "",
+      "cellulare": "+393404237906",
+      "indirizzo": "Piazza Indirizzo, 3, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 8,
+      "place_id": "ChIJFZVtjgr5ExMRT-dFI3DuGIU",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:43.754751"
+    },
+    {
+      "nome_salone": "SISTERS BEAUTY LAB CENTRO ESTETICO di Barbara trovato",
+      "responsabile": "",
+      "cellulare": "+393518558744",
+      "indirizzo": "Via Provinciale Per Santa Maria Ammalati, 62/A, 95024 Acireale CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 42,
+      "place_id": "ChIJsYgvVr35ExMRnRB0n23BQBI",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:44.042432"
+    },
+    {
+      "nome_salone": "Centro Bioestetico “Ibiscus”",
+      "responsabile": "",
+      "cellulare": "+393480047286",
+      "indirizzo": "Via Alessandro Manzoni, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.7,
+      "user_ratings_total": 26,
+      "place_id": "ChIJ4XPRVxD5ExMRnJBA_BmGYc4",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:45.061017"
+    },
+    {
+      "nome_salone": "Alma estetica & dimagrimento",
+      "responsabile": "",
+      "cellulare": "+393476933734",
+      "indirizzo": "Via Felice Paradiso, 68E, 95024 Acireale CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 14,
+      "place_id": "ChIJ13am2jT5ExMReZcu-dKsI5o",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:45.657227"
+    },
+    {
+      "nome_salone": "Beauty Shop Profumerie",
+      "responsabile": "",
+      "cellulare": "+393485195900",
+      "indirizzo": "Corso Savoia, 261, 95024 Acireale CT, Italy",
+      "categoria": "clothing_store, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 138,
+      "place_id": "ChIJh6UiIwP5ExMRhnTX-mfjNC4",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:48.526170"
+    },
+    {
+      "nome_salone": "LAGUSTA ACIREALE",
+      "responsabile": "",
+      "cellulare": "+393290111919",
+      "indirizzo": "Via Ruggero Settimo, 7, 95024 Acireale CT, Italy",
+      "categoria": "clothing_store, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 1,
+      "place_id": "ChIJv_KPtan5ExMRquNShIEC418",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:49.745864"
+    },
+    {
+      "nome_salone": "Bellezza e Profumo",
+      "responsabile": "",
+      "cellulare": "+393383939513",
+      "indirizzo": "Corso Savoia, 110/112, 95024 Acireale CT, Italy",
+      "categoria": "clothing_store, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.facebook.com/profile.php?id=100063761251753",
+      "rating": 4.8,
+      "user_ratings_total": 26,
+      "place_id": "ChIJY3A_UwT5ExMRn8WUfh_0_zo",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:50.683498"
+    },
+    {
+      "nome_salone": "Chapeau Professional (articoli per parrucchieri ed estetiste)",
+      "responsabile": "",
+      "cellulare": "+393762488098",
+      "indirizzo": "Corso Umberto, 174, 95024 Acireale CT, Italy",
+      "categoria": "clothing_store, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 63,
+      "place_id": "ChIJMXA8JCX5ExMRtNBCo-QV0d8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:52.429181"
+    },
+    {
+      "nome_salone": "Fenice beauty",
+      "responsabile": "",
+      "cellulare": "+393450926419",
+      "indirizzo": "Via Veneto, 34, 95024 Acireale CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 12,
+      "place_id": "ChIJe0HhPmn5ExMRalhRwqaJjy4",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:56.657814"
+    },
+    {
+      "nome_salone": "Salute e Benessere",
+      "responsabile": "",
+      "cellulare": "+393501685776",
+      "indirizzo": "Via Giovanni Verga, 5b, 95024 Acireale CT, Italy",
+      "categoria": "establishment, health",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://studiodisalutebenessere.it/",
+      "rating": 4.9,
+      "user_ratings_total": 234,
+      "place_id": "ChIJmWkHmX0Eu6URGfvqP7-3XNM",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:55:57.036575"
+    },
+    {
+      "nome_salone": "Cosmo Beauty Di Angela Giusto",
+      "responsabile": "",
+      "cellulare": "+393452853044",
+      "indirizzo": "Via Nunzio Caudullo, 95045 Misterbianco CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.7,
+      "user_ratings_total": 36,
+      "place_id": "ChIJq8imjCdYERMR-4UbuHMqT70",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:01.203317"
+    },
+    {
+      "nome_salone": "Un Mare Di Bellezza forniture",
+      "responsabile": "",
+      "cellulare": "+393201739430",
+      "indirizzo": "Via Giordano Bruno, 125, 95045 Misterbianco CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://unmaredibellezza.it/",
+      "rating": 4.9,
+      "user_ratings_total": 14,
+      "place_id": "ChIJsZ_ypSFYERMRwQc_GczS4zA",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:03.479632"
+    },
+    {
+      "nome_salone": "Mondo Belleza Ingrosso Cosmetici E Manicure",
+      "responsabile": "",
+      "cellulare": "+393778408586",
+      "indirizzo": "Strada Comunale Pilata, 31, 95045 Misterbianco CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.2,
+      "user_ratings_total": 9,
+      "place_id": "ChIJu3Y1miJYERMRKWJZnWFqE2s",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:05.733466"
+    },
+    {
+      "nome_salone": "Charme - Hair studio",
+      "responsabile": "",
+      "cellulare": "+393914586790",
+      "indirizzo": "Via Giacomo Matteotti, 294, 95045 Misterbianco CT, Italy",
+      "categoria": "establishment, hair_care",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.facebook.com/charmestudio",
+      "rating": 5,
+      "user_ratings_total": 126,
+      "place_id": "ChIJO4mEcOdXERMRt25DCN5gBYA",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:07.969454"
+    },
+    {
+      "nome_salone": "“V M Luxury Style”, Parrucchiere Unisex Misterbianco Catania, Parrucchiere Donna, Parrucchiere Uomo, Barbiere, Barber Shop",
+      "responsabile": "",
+      "cellulare": "+393486042394",
+      "indirizzo": "Via Santa Bernadette, 5C, 95045 Misterbianco CT, Italy",
+      "categoria": "establishment, hair_care",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.vmluxurystyle.it/",
+      "rating": 4.9,
+      "user_ratings_total": 50,
+      "place_id": "ChIJPYpiP1H9ExMR508EGniGf6M",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:09.876685"
+    },
+    {
+      "nome_salone": "Vale Guidotto",
+      "responsabile": "",
+      "cellulare": "+393514215501",
+      "indirizzo": "Via Etna, 163, 95045 Misterbianco CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 13,
+      "place_id": "ChIJE_HP-E39ExMRkwxVhb6DIU4",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:13.496801"
+    },
+    {
+      "nome_salone": "GA.MA centro degradé e centro estetico",
+      "responsabile": "",
+      "cellulare": "+393271976784",
+      "indirizzo": "Via Giacomo Matteotti, 233, 95045 Misterbianco CT, Italy",
+      "categoria": "establishment, hair_care",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 3.4,
+      "user_ratings_total": 5,
+      "place_id": "ChIJt5_SJgBZERMRlZwK3430FQ8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:14.170184"
+    },
+    {
+      "nome_salone": "Aphrodite Il Tempio Della Bellezza Di Arbaci Angela",
+      "responsabile": "",
+      "cellulare": "+393475825539",
+      "indirizzo": "Via Firenze, 45, 95040 Motta Sant'Anastasia CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 34,
+      "place_id": "ChIJH2rBtcJZERMRK0glrwRbJHg",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:15.973098"
+    },
+    {
+      "nome_salone": "Harmony FOOD &DRINK",
+      "responsabile": "",
+      "cellulare": "+393483751602",
+      "indirizzo": "Via Etnea, 291, 95100 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": null,
+      "user_ratings_total": null,
+      "place_id": "ChIJL3SG47XjExMRHYsYfwO5Ya0",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:16.400144"
+    },
+    {
+      "nome_salone": "ESTE' CENTRO ESTETICO di Stefania Russo",
+      "responsabile": "",
+      "cellulare": "+393486615030",
+      "indirizzo": "Largo dell’accoglienza, 20, 95047 Paternò CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.7,
+      "user_ratings_total": 173,
+      "place_id": "ChIJ9zicN-RQERMR9RTkpmL3CK8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:18.065123"
+    },
+    {
+      "nome_salone": "CoralBeauty Estetica di Barbara Corallo",
+      "responsabile": "",
+      "cellulare": "+393484660675",
+      "indirizzo": "Via Sardegna, 75, 95047 Paternò CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 5,
+      "place_id": "ChIJ-7XDYjJRERMRCAJyGr0dSMU",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:19.637003"
+    },
+    {
+      "nome_salone": "Centro Olistico Elements",
+      "responsabile": "",
+      "cellulare": "+393517198216",
+      "indirizzo": "Viale dei Platani, 66, 95047 Paternò CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 1,
+      "place_id": "ChIJu-WBE3BRERMR4rP4C2z0zm8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:23.525642"
+    },
+    {
+      "nome_salone": "Beauty Space Nails - Sede Legale",
+      "responsabile": "",
+      "cellulare": "+393343688459",
+      "indirizzo": "Vico Gaetano Pulvirenti, 9, 95047 Paternò CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://beautyspacenails.com/pages/domande-frequenti-faq",
+      "rating": null,
+      "user_ratings_total": null,
+      "place_id": "ChIJRQF7yuBQERMRHwPMcrn_F-c",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:25.555815"
+    },
+    {
+      "nome_salone": "Germana Beauty Nails",
+      "responsabile": "",
+      "cellulare": "+393791525577",
+      "indirizzo": "Via Luigi Paternò Raddusa, 9, 95029 Viagrande CT, Italy",
+      "categoria": "beauty_salon, clothing_store",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://germanabeautynails.com/",
+      "rating": 4.9,
+      "user_ratings_total": 55,
+      "place_id": "ChIJRS2_5ZT-ExMR4xzWoEDrRQc",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:26.067469"
+    },
+    {
+      "nome_salone": "Bflow Beauty Concept - By Paola (Estetica e Pilates)",
+      "responsabile": "",
+      "cellulare": "+393491279176",
+      "indirizzo": "Via Umbria, 6, 95047 Paternò CT, Italy",
+      "categoria": "establishment, gym",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.bflow.it/",
+      "rating": 5,
+      "user_ratings_total": 17,
+      "place_id": "ChIJE5BUD3lRERMRf6trL-VHOBQ",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:27.803035"
+    },
+    {
+      "nome_salone": "VyBi Nails Belpasso di Viviana Barbagallo",
+      "responsabile": "",
+      "cellulare": "+393791116894",
+      "indirizzo": "Via XII Traversa, 19, 95032 Belpasso CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.vivianabarbagallo.it/",
+      "rating": 4.2,
+      "user_ratings_total": 30,
+      "place_id": "ChIJQV6E96lXERMR3YwiagTXrwE",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:28.185254"
+    },
+    {
+      "nome_salone": "Kelù Bellezza e Benessere",
+      "responsabile": "",
+      "cellulare": "+393515045930",
+      "indirizzo": "Via G.Alfano, 44 - 46, 95047 Paternò CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 12,
+      "place_id": "ChIJ02KYGyNRERMRvWDaLMC3zkQ",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:28.605128"
+    },
+    {
+      "nome_salone": "Beautyland by Barbara Ventura",
+      "responsabile": "",
+      "cellulare": "+393513209300",
+      "indirizzo": "V. Circumvallazione, 19-21, 95047 Paternò CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://beautylandbybarbara0.wixsite.com/beautylandbybarbarav",
+      "rating": 5,
+      "user_ratings_total": 3,
+      "place_id": "ChIJX-VUGJhRERMRFsJ4BVe4GYs",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:31.606634"
+    },
+    {
+      "nome_salone": "MOVE AND BEAUTY",
+      "responsabile": "",
+      "cellulare": "+393760660237",
+      "indirizzo": "Via Lucania, 64, 95047 Paternò CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.8,
+      "user_ratings_total": 5,
+      "place_id": "ChIJx8xy2HZRERMReY-ua-cAC5I",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:31.882419"
+    },
+    {
+      "nome_salone": "Eris Nails Club",
+      "responsabile": "",
+      "cellulare": "+393791070222",
+      "indirizzo": "Via Vittorio Emanuele, 377/p.terra, 95047 Paternò CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.instagram.com/eris_nails_club?igsh=Y3NnY3M5MnZldmR6",
+      "rating": null,
+      "user_ratings_total": null,
+      "place_id": "ChIJvSfET41RERMRawkHdKwEyRg",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:32.194207"
+    },
+    {
+      "nome_salone": "Centro Estetico Oasi del benessere",
+      "responsabile": "",
+      "cellulare": "+393203068216",
+      "indirizzo": "Via Roma, 130, 95032 Belpasso CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.oasidelbenesserebelpasso.it/",
+      "rating": 4.9,
+      "user_ratings_total": 110,
+      "place_id": "ChIJ4UfFVYVXERMRa8jJ_GP1wd8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:34.790504"
+    },
+    {
+      "nome_salone": "Angela Catania Estetic lab",
+      "responsabile": "",
+      "cellulare": "+393454340584",
+      "indirizzo": "Via Aldo Moro, 53, 95032 Belpasso CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.instagram.com/angelacatania_estetic.lab?igsh=MWkzazAwa2liMW05ZA%3D%3D&utm_source=qr",
+      "rating": 5,
+      "user_ratings_total": 81,
+      "place_id": "ChIJUQBO9QFXERMR7o_vTzAP80Q",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:35.108726"
+    },
+    {
+      "nome_salone": "GP Esthetique",
+      "responsabile": "",
+      "cellulare": "+393389991118",
+      "indirizzo": "Via XIX Traversa, 128, 95032 Belpasso CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 23,
+      "place_id": "ChIJ5yFOo2tXERMRFvA5oqpX5sY",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:35.700861"
+    },
+    {
+      "nome_salone": "Ambra Vicari Beauty Studio",
+      "responsabile": "",
+      "cellulare": "+393927512661",
+      "indirizzo": "Via Firenze, 50, 95021 Aci Castello CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.9,
+      "user_ratings_total": 30,
+      "place_id": "ChIJc_Cy2y37ExMRm0etEKsdMek",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:40.892611"
+    },
+    {
+      "nome_salone": "GMG Centro Estetico",
+      "responsabile": "",
+      "cellulare": "+393277729222",
+      "indirizzo": "Via Giacomo Matteotti, 1, 95022 Aci Catena CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://centroesteticogmg.com/",
+      "rating": 4.5,
+      "user_ratings_total": 32,
+      "place_id": "ChIJJ2E2kW_5ExMRlInsH9vyBaA",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:43.706907"
+    },
+    {
+      "nome_salone": "Daniagà",
+      "responsabile": "",
+      "cellulare": "+393703037125",
+      "indirizzo": "Via G. Pezzana, 18, 95021 Aci Castello CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.esscosmeticanaturale.it/",
+      "rating": null,
+      "user_ratings_total": null,
+      "place_id": "ChIJD2XIFgD7ExMR5zfsM6F3fLk",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:44.063394"
+    },
+    {
+      "nome_salone": "MD S.p.A.",
+      "responsabile": "",
+      "cellulare": "+393207189041",
+      "indirizzo": "V. Marchesana, 3, 95025 Aci Sant'Antonio CT, Italy",
+      "categoria": "bakery, convenience_store",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.mdspa.it/punti-vendita/Sicilia/CT-Catania/401-ACI-SANT-ANTONIO",
+      "rating": 4.2,
+      "user_ratings_total": 458,
+      "place_id": "ChIJG3PMfkn5ExMRLCBP7WnJkC8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:54.505573"
+    },
+    {
+      "nome_salone": "Incanto Beauty Point (Nuova Gestione)",
+      "responsabile": "",
+      "cellulare": "+393478257299",
+      "indirizzo": "Via Passo di Aci, 21, 95128 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://beautypoint.al/",
+      "rating": 3.7,
+      "user_ratings_total": 13,
+      "place_id": "ChIJzxnfsND8ExMRwk7pEAomQlk",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:56:58.587176"
+    },
+    {
+      "nome_salone": "Centro estetico \"Il Girasole Beauty Center\"",
+      "responsabile": "",
+      "cellulare": "+393315695387",
+      "indirizzo": "Via Galileo Galilei, 18, 95037 San Giovanni la Punta CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.ilgirasolebeautycenter.it/",
+      "rating": 4.9,
+      "user_ratings_total": 13,
+      "place_id": "ChIJZ3axrT39ExMR2zBsfaVOgV8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:01.475790"
+    },
+    {
+      "nome_salone": "You B You Nails by Erika Nortier",
+      "responsabile": "",
+      "cellulare": "+393667253370",
+      "indirizzo": "Via Sottotenente G. Scalia, 28/C, 95037 San Giovanni la Punta CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.youbyounails.it/",
+      "rating": 4.8,
+      "user_ratings_total": 18,
+      "place_id": "ChIJn5jDFHj9ExMRSLvXe6TftNM",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:03.394172"
+    },
+    {
+      "nome_salone": "Zeropeli S. G. la Punta",
+      "responsabile": "",
+      "cellulare": "+393206798068",
+      "indirizzo": "Via della Regione, 346, 95037 San Giovanni la Punta CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://zeropelisglapunta.it/",
+      "rating": 4.7,
+      "user_ratings_total": 20,
+      "place_id": "ChIJBe-rBG_9ExMRwUU_HEjFFO4",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:05.716157"
+    },
+    {
+      "nome_salone": "Centro Benessere Essenza Specializzati con il Metodo Snellessenza Dimagrire Modellare Ringiovanendo in Salute e Relax",
+      "responsabile": "",
+      "cellulare": "+393476045094",
+      "indirizzo": "Via Napoli, 6, 95037 San Giovanni la Punta CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.snellessenza.it/nuovoessenza/",
+      "rating": 5,
+      "user_ratings_total": 33,
+      "place_id": "ChIJo6qeOyT8ExMRUNebsn69KVc",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:06.518240"
+    },
+    {
+      "nome_salone": "RELEI - Beauty Concept di Amanda D’Urso | Acne Specialist",
+      "responsabile": "",
+      "cellulare": "+393401707542",
+      "indirizzo": "Via della Regione, 188, A, 95037 San Giovanni La Punta CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://releibeautyconceptcatania.it/home",
+      "rating": 4.9,
+      "user_ratings_total": 16,
+      "place_id": "ChIJ-ZoVqo79ExMRoJfb2p3Kawg",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:10.358452"
+    },
+    {
+      "nome_salone": "Centro estetico - Estèsia Wellness&Beauty",
+      "responsabile": "",
+      "cellulare": "+393515923959",
+      "indirizzo": "Via Etnea, 348, 95030 Tremestieri Etneo CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.instagram.com/estesia_centroestetico?igsh=aHNtbXV6aW1hcHMz",
+      "rating": 5,
+      "user_ratings_total": 45,
+      "place_id": "ChIJjxn9Kv79ExMRpdaZzXWr9CY",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:13.664510"
+    },
+    {
+      "nome_salone": "Farma Estetica | Epilazione Laser | Trattamenti Viso - Corpo | Nutrizione",
+      "responsabile": "",
+      "cellulare": "+393703315708",
+      "indirizzo": "Via Luigi Capuana, 20, 95030 Tremestieri Etneo CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.farma-estetica.it/",
+      "rating": 4.9,
+      "user_ratings_total": 283,
+      "place_id": "ChIJEf-Da7T9ExMRJecoqCaTWGQ",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:14.187631"
+    },
+    {
+      "nome_salone": "Evolush - Evoluzione Estetica",
+      "responsabile": "",
+      "cellulare": "+393471857011",
+      "indirizzo": "Via Nizzeti, 42A, 95030 Tremestieri Etneo CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.9,
+      "user_ratings_total": 43,
+      "place_id": "ChIJ5_2zdo79ExMRpnV3T133v-Q",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:14.998344"
+    },
+    {
+      "nome_salone": "L'arte del Benessere",
+      "responsabile": "",
+      "cellulare": "+393497191666",
+      "indirizzo": "Via Novaluce, 38, 95030 Tremestieri Etneo CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.facebook.com/farovalentina91/",
+      "rating": 5,
+      "user_ratings_total": 22,
+      "place_id": "ChIJ-fZlYeT9ExMRo-Feokwy52g",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:16.463838"
+    },
+    {
+      "nome_salone": "La Beautè Centro Estetico",
+      "responsabile": "",
+      "cellulare": "+393934787808",
+      "indirizzo": "Via Novaluce, 43, 95030 Canalicchio CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.8,
+      "user_ratings_total": 75,
+      "place_id": "ChIJX0cQxe_8ExMRO0IPpd4RZXI",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:17.560717"
+    },
+    {
+      "nome_salone": "Armonia Della Bellezza",
+      "responsabile": "",
+      "cellulare": "+393516351963",
+      "indirizzo": "Via Vittorio Emanuele, 46, 95030 Gravina di Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 17,
+      "place_id": "ChIJxfcwxj79ExMRlc4xOYfuHfA",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:18.689613"
+    },
+    {
+      "nome_salone": "Dream Nails - Estetica e Benessere",
+      "responsabile": "",
+      "cellulare": "+393316159755",
+      "indirizzo": "Via Guglielmo Marconi, 27, 95030 Gravina di Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.dreamnailsestetica.com/",
+      "rating": 5,
+      "user_ratings_total": 23,
+      "place_id": "ChIJzRSIHSv9ExMRHtNHzeVSbgI",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:20.742793"
+    },
+    {
+      "nome_salone": "Centro Estetico Tipittu",
+      "responsabile": "",
+      "cellulare": "+393491220219",
+      "indirizzo": "Via Emanuele Cutore, 76, 95030 Gravina di Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.6,
+      "user_ratings_total": 94,
+      "place_id": "ChIJ2SrojSz9ExMRM52YY9vYCFc",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:21.515505"
+    },
+    {
+      "nome_salone": "BioEstetica bellezza e benessere",
+      "responsabile": "",
+      "cellulare": "+393341944634",
+      "indirizzo": "Via Carabiniere, 3, 95030 Gravina di Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.instagram.com/bioestetica_official_ct",
+      "rating": 5,
+      "user_ratings_total": 42,
+      "place_id": "ChIJedCH8KH9ExMROTJyFyDNSL4",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:23.427963"
+    },
+    {
+      "nome_salone": "Cleb Beauty",
+      "responsabile": "",
+      "cellulare": "+393403532811",
+      "indirizzo": "Via Vittorio Emanuele, 114, 95030 Gravina di Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.clebbeauty.it/",
+      "rating": 4.6,
+      "user_ratings_total": 12,
+      "place_id": "ChIJsyd91Gn9ExMRtpcLmKHaeZE",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:27.305260"
+    },
+    {
+      "nome_salone": "Lakshmi Beauty's",
+      "responsabile": "",
+      "cellulare": "+393925708809",
+      "indirizzo": "Via Morgioni, 56, 95027 San Gregorio di Catania CT, Italy",
+      "categoria": "establishment, health",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://www.facebook.com/lakshmibeautyroom",
+      "rating": 4.9,
+      "user_ratings_total": 84,
+      "place_id": "ChIJzTZhex79ExMRlN5-aM-7NrM",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:28.955311"
+    },
+    {
+      "nome_salone": "Estetica & Benessere di Annalisa S.",
+      "responsabile": "",
+      "cellulare": "+393283412479",
+      "indirizzo": "Via Ulivi, 28, 95027 San Gregorio di Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 30,
+      "place_id": "ChIJTyGgTdb9ExMRg9yPt4r30qU",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:29.379058"
+    },
+    {
+      "nome_salone": "Beauty Station",
+      "responsabile": "",
+      "cellulare": "+393470273618",
+      "indirizzo": "95030 Mascalucia Metropolitan city of Catania, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.9,
+      "user_ratings_total": 53,
+      "place_id": "ChIJR79rZpT9ExMRatnSSH03G0U",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:32.460452"
+    },
+    {
+      "nome_salone": "Centro estetico meraki",
+      "responsabile": "",
+      "cellulare": "+393478932286",
+      "indirizzo": "Via Giovanni Verga, 52, 95030 Nicolosi CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 5,
+      "user_ratings_total": 8,
+      "place_id": "ChIJ0ThPg_ZVERMRfJgQaJZz4EQ",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:34.690177"
+    },
+    {
+      "nome_salone": "Afrodite Centro Bellezza E Benessere",
+      "responsabile": "",
+      "cellulare": "+393474993754",
+      "indirizzo": "Via della Quercia, 6, 95030 Nicolosi CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://afroditebellezzanicolosi.altervista.org/",
+      "rating": 4.3,
+      "user_ratings_total": 43,
+      "place_id": "ChIJZxLKOvZVERMRSsA_seQOScg",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:35.139761"
+    },
+    {
+      "nome_salone": "Shine Parrucchieri di Davide Salamone",
+      "responsabile": "",
+      "cellulare": "+393472105687",
+      "indirizzo": "Via Matteo Renato Imbriani, 51, 95128 Catania CT, Italy",
+      "categoria": "establishment, hair_care",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.9,
+      "user_ratings_total": 73,
+      "place_id": "ChIJsdT-xYL9ExMRoIj97H4dIaY",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:37.689635"
+    },
+    {
+      "nome_salone": "Styling barber estetica Uomo Donna",
+      "responsabile": "",
+      "cellulare": "+393406346350",
+      "indirizzo": "Via Orchidea 6, Via Orchidea, 8, 95123 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "http://stylingesteticacatania.it/",
+      "rating": 4.6,
+      "user_ratings_total": 113,
+      "place_id": "ChIJ83W3rCv9ExMRBt4fLrzfkhQ",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:38.638732"
+    },
+    {
+      "nome_salone": "Urban Beauty Catania",
+      "responsabile": "",
+      "cellulare": "+393519080951",
+      "indirizzo": "Via Quintino Sella, 11, 95129 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.urbanbeautycatania.com/",
+      "rating": 4.9,
+      "user_ratings_total": 10,
+      "place_id": "ChIJvb35gu39ExMRJev_oF3o8_g",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:57:47.871914"
+    },
+    {
+      "nome_salone": "Glance Nails Professional",
+      "responsabile": "",
+      "cellulare": "+393451663178",
+      "indirizzo": "Via Umberto I, 218, 95129 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.glancenailsprofessional.com/",
+      "rating": 5,
+      "user_ratings_total": 1,
+      "place_id": "ChIJp23LlM38ExMRKyQPVkPCUlI",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:58:02.182562"
+    },
+    {
+      "nome_salone": "Sabaijai Thai Massage Catania",
+      "responsabile": "",
+      "cellulare": "+393756116562",
+      "indirizzo": "Via Cestai, 3a, 95131 Catania CT, Italy",
+      "categoria": "establishment, point_of_interest",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://centrimassaggithai.it/catania/catania/sabaijai-thai-massage-catania/",
+      "rating": 4.9,
+      "user_ratings_total": 232,
+      "place_id": "ChIJW6fniYbjExMRj8og3ciPYi8",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:58:10.690758"
+    },
+    {
+      "nome_salone": "L' UNIVERSO DEL RELAX,CENTRO ESTETICO-BENESSERE-MASSAGGI (Massaggi ed Estetica)",
+      "responsabile": "",
+      "cellulare": "+393512480593",
+      "indirizzo": "Via Orto Limoni, 52, 95129 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "",
+      "rating": 4.7,
+      "user_ratings_total": 30,
+      "place_id": "ChIJrcQ8DKj9ExMR8Q_VYO3zDTs",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:58:12.604981"
+    },
+    {
+      "nome_salone": "Be One - Massaggi ed Estetica Catania",
+      "responsabile": "",
+      "cellulare": "+393472864022",
+      "indirizzo": "Via Sabato Martelli Castaldi, 7, 95123 Catania CT, Italy",
+      "categoria": "beauty_salon, establishment",
+      "email": "",
+      "social": {
+        "instagram": "",
+        "facebook": ""
+      },
+      "sito_web": "https://www.centroesteticobeone.it/",
+      "rating": 4.8,
+      "user_ratings_total": 83,
+      "place_id": "ChIJIYvbC17jExMRmpk1x9zMj8U",
+      "note_attrezzature": "",
+      "fonte": "google_places",
+      "data_raccolta": "2026-06-07T15:58:13.446845"
+    }
+  ]
+}

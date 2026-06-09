@@ -42,22 +42,22 @@ export const useCases: { title: string; text: string; image: string }[] = [
   {
     title: "Eventi & brand activation",
     text: "Un'attrazione che ferma le persone: nail art brandizzata in tempo reale per fiere, lanci di prodotto e attivazioni. Crea code, contenuti social e ricordi che restano.",
-    image: "/2.jpg",
+    image: "2.jpg",
   },
   {
     title: "Feste & celebrazioni",
     text: "Compleanni, addii al nubilato, baby shower e matrimoni: regala alle tue ospiti un angolo beauty divertente dove ognuna sceglie il proprio design in pochi secondi.",
-    image: "/3.jpg",
+    image: "3.jpg",
   },
   {
     title: "Saloni & nail artist",
     text: "Aggiungi un servizio premium senza investimenti: offri centinaia di design e nail art personalizzata nelle tue giornate di punta, pagando solo il noleggio.",
-    image: "/5.jpg",
+    image: "5.jpg",
   },
   {
     title: "Negozi, aperture & pop-up",
     text: "Inaugurazioni, mercatini e temporary store: porta traffico al tuo spazio con un servizio gratuito o a pagamento che trasforma i curiosi in clienti.",
-    image: "/6.jpg",
+    image: "6.jpg",
   },
 ];
 
