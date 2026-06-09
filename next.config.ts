@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/nailstech',
+  basePath: process.env.NODE_ENV === 'production' ? '/nailstech' : '',
   images: {
     unoptimized: true,
   },
