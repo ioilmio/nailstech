@@ -399,6 +399,46 @@ export default function Home() {
               )}
             </div>
 
+            {/* video demo */}
+            <div className="no-print mt-10 grid gap-6 sm:grid-cols-2">
+              <Card className="overflow-hidden p-0">
+                <div className="aspect-video w-full">
+                  <video
+                    src="na03.mp4"
+                    controls
+                    playsInline
+                    preload="metadata"
+                    className="h-full w-full object-cover"
+                    aria-label="Stampa nail art in azione"
+                  />
+                </div>
+                <CardContent className="px-5 py-4">
+                  <h3 className="font-semibold">Stampa nail art in tempo reale</h3>
+                  <p className="mt-1 text-sm text-muted-foreground">
+                    Guarda come la NT-NA03 realizza una grafica complessa in pochi secondi direttamente sull&apos;unghia.
+                  </p>
+                </CardContent>
+              </Card>
+              <Card className="overflow-hidden p-0">
+                <div className="aspect-video w-full">
+                  <video
+                    src="na03-2.mp4"
+                    controls
+                    playsInline
+                    preload="metadata"
+                    className="h-full w-full object-cover"
+                    aria-label="Dettaglio risultato stampa"
+                  />
+                </div>
+                <CardContent className="px-5 py-4">
+                  <h3 className="font-semibold">Il risultato da vicino</h3>
+                  <p className="mt-1 text-sm text-muted-foreground">
+                    Qualità HD, dettagli nitidi e colori vivaci: ecco il livello di precisione della stampante.
+                  </p>
+                </CardContent>
+              </Card>
+            </div>
+
             <div className="mt-10 grid items-start gap-10 md:grid-cols-2">
               <div>
                 <h2 className="text-3xl font-bold tracking-tight">

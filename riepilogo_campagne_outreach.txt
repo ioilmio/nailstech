@@ -1,0 +1,319 @@
+======================================================================
+RIEPILOGO COMPLETO CAMPAGNE OUTREACH - NAILSTECH
+Tutte le versioni di messaggio utilizzate
+======================================================================
+
+
+######################################################################
+# CAMPAGNA: SINGLE MESSAGE - Breve e non invadente
+# File: single_message_links.txt
+######################################################################
+
+Messaggi esempio (decodificati):
+
+  [1] 👋 Buongiorno Il Sogno di ogni donna | Centro estetico Catania, sono Salvatore di Nailstech.
+
+Le interessa una stampante per nail art unghie in noleggio?
+
+Mi basta un "Sì" e le invio i dettagli. Grazie! 🙏
+
+  [2] 👋 Buongiorno TRISCELE Beauty, sono Salvatore di Nailstech.
+
+Le interessa una stampante per nail art unghie in noleggio?
+
+Mi basta un "Sì" e le invio i dettagli. Grazie! 🙏
+
+  [3] 👋 Buongiorno Il Sogno della Bellezza - Centro Estetico a Catania, sono Salvatore di Nailstech.
+
+Le interessa una stampante per nail art unghie in noleggio?
+
+Mi basta un "Sì" e le invio i dettagli. Grazie! 🙏
+
+  Totale contatti: 20
+
+
+######################################################################
+# CAMPAGNA: DEMO - Template domanda_direct
+# File: demo_campagna_links.txt
+######################################################################
+
+Messaggi esempio (decodificati):
+
+  [1] 👋 Buongiorno Il Sogno della Bellezza - Centro Estetico a Catania, sono Salvatore di Nailstech (Quadro srls).
+
+Volevo chiederle: il suo centro sarebbe interessato a una stampante per unghie in noleggio a 99€/mese?
+
+Mi basta un "Sì/No" per capire se approfondire. Grazie mille! 🙏
+
+  [2] 👋 Buongiorno Glamour Sole e Bellezza, sono Salvatore di Nailstech (Quadro srls).
+
+Volevo chiederle: il suo centro sarebbe interessato a una stampante per unghie in noleggio a 99€/mese?
+
+Mi basta un "Sì/No" per capire se approfondire. Grazie mille! 🙏
+
+  [3] 👋 Buongiorno Il Sogno di ogni donna | Centro estetico Catania, sono Salvatore di Nailstech (Quadro srls).
+
+Volevo chiederle: il suo centro sarebbe interessato a una stampante per unghie in noleggio a 99€/mese?
+
+Mi basta un "Sì/No" per capire se approfondire. Grazie mille! 🙏
+
+  Totale contatti: 10
+
+
+######################################################################
+# CAMPAGNA: PRICE SENSITIVITY - 3 fasce prezzo
+# File: price_sensitivity_links.txt
+######################################################################
+
+Messaggi esempio (decodificati):
+
+  [1] 👋 Il Sogno della Bellezza - Centro Estetico a Catania, sono Salvatore di Nailstech (Quadro srls).
+
+Test di mercato: a che formula preferisce per il noleggio stampante unghie?
+- A) 120€/giorno (uso singolo)
+- B) 80€/settimana (es. ogni lunedì)
+- C) 350€/settimana (full-time)
+
+Mi basta la lettera della risposta. Grazie mille! 📊
+
+  [2] 👋 Bioperla - Centro Estetico a Catania, sono Salvatore di Nailstech (Quadro srls).
+
+Test di mercato: a che formula preferisce per il noleggio stampante unghie?
+- A) 120€/giorno (uso singolo)
+- B) 80€/settimana (es. ogni lunedì)
+- C) 350€/settimana (full-time)
+
+Mi basta la lettera della risposta. Grazie mille! 📊
+
+  [3] 👋 TRISCELE Beauty, sono Salvatore di Nailstech (Quadro srls).
+
+Test di mercato: a che formula preferisce per il noleggio stampante unghie?
+- A) 120€/giorno (uso singolo)
+- B) 80€/settimana (es. ogni lunedì)
+- C) 350€/settimana (full-time)
+
+Mi basta la lettera della risposta. Grazie mille! 📊
+
+  Totale contatti: 15
+
+
+######################################################################
+# CAMPAGNA: FINALE MEDIA - 185 char ottimizzata
+# File: campagna_finale_media_links.txt
+######################################################################
+
+Messaggi esempio (decodificati):
+
+  [1] 👋 Buongiorno Esthena Nails e Benessere, sono Salvatore di Nailstech (Quadro srls).
+
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+
+Le interessa ricevere un preventivo senza impegno?
+
+Mi basta un "Sì" e le invio subito i dettagli. Grazie! 🙏
+
+  [2] 👋 Buongiorno TRISCELE Beauty, sono Salvatore di Nailstech (Quadro srls).
+
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+
+Le interessa ricevere un preventivo senza impegno?
+
+Mi basta un "Sì" e le invio subito i dettagli. Grazie! 🙏
+
+  [3] 👋 Buongiorno Glamour Sole e Bellezza, sono Salvatore di Nailstech (Quadro srls).
+
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+
+Le interessa ricevere un preventivo senza impegno?
+
+Mi basta un "Sì" e le invio subito i dettagli. Grazie! 🙏
+
+  Totale contatti: 30
+
+
+######################################################################
+# CAMPAGNA: CORRETTA - Senza emoji
+# File: campagna_corretta_links.txt
+######################################################################
+
+Messaggi esempio (decodificati):
+
+  [1] Salve Esthena Nails e Benessere, sono Salvatore di Nailstech (Quadro srls).
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+Le interessa ricevere un preventivo senza impegno?
+Mi basta un "Sì" e le invio subito i dettagli. Grazie!
+
+  [2] Salve Glamour Sole e Bellezza, sono Salvatore di Nailstech (Quadro srls).
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+Le interessa ricevere un preventivo senza impegno?
+Mi basta un "Sì" e le invio subito i dettagli. Grazie!
+
+  [3] Salve Il Sogno della Bellezza - Centro Estetico a Catania, sono Salvatore di Nailstech (Quadro srls).
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+Le interessa ricevere un preventivo senza impegno?
+Mi basta un "Sì" e le invio subito i dettagli. Grazie!
+
+  Totale contatti: 30
+
+
+######################################################################
+# CAMPAGNA: REFERENTI - Con nome referente
+# File: campagna_referenti_links.txt
+######################################################################
+
+Messaggi esempio (decodificati):
+
+  [1] Salve Esthena Nails e Benessere, sono Salvatore di Nailstech (Quadro srls).
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+Le interessa ricevere un preventivo senza impegno?
+Mi basta un "Sì" e le invio subito i dettagli. Grazie!
+
+  [2] Salve Glamour Sole e Bellezza, sono Salvatore di Nailstech (Quadro srls).
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+Le interessa ricevere un preventivo senza impegno?
+Mi basta un "Sì" e le invio subito i dettagli. Grazie!
+
+  [3] Salve Il Sogno della Bellezza - Centro Estetico a Catania, sono Salvatore di Nailstech (Quadro srls).
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+Le interessa ricevere un preventivo senza impegno?
+Mi basta un "Sì" e le invio subito i dettagli. Grazie!
+
+  Totale contatti: 30
+
+
+######################################################################
+# CAMPAGNA: A/B TEST - 3 strategie diverse
+# File: ab_test_strategie_links.txt
+######################################################################
+
+Messaggi esempio (decodificati):
+
+  [1] Salve Laser & Beauty, sono Salvatore di Nailstech. Ho notato il suo centro e penso che una stampante per nail art potrebbe aumentare i suoi clienti. A 100€/giorno le permette di offrire design unici che i concorrenti non hanno. Le interessa scoprire come funziona?
+
+  [2] Salve Venus al Plaza, sono Salvatore di Nailstech. Ho notato il suo centro e penso che una stampante per nail art potrebbe aumentare i suoi clienti. A 100€/giorno le permette di offrire design unici che i concorrenti non hanno. Le interessa scoprire come funziona?
+
+  [3] Salve Nails Aesthetic Studio Erika Dei Pieri, sono Salvatore di Nailstech. Ho notato il suo centro e penso che una stampante per nail art potrebbe aumentare i suoi clienti. A 100€/giorno le permette di offrire design unici che i concorrenti non hanno. Le interessa scoprire come funziona?
+
+  Totale contatti: 20
+
+
+######################################################################
+# CAMPAGNA: COMPLETA RESTANTI - 98 contatti
+# File: campagna_completa_restanti_links.txt
+######################################################################
+
+Messaggi esempio (decodificati):
+
+  [1] Salve Nails Aesthetic Studio Erika Dei Pieri, sono Salvatore di Nailstech (Quadro srls).
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+Le interessa ricevere un preventivo senza impegno?
+Mi basta un "Sì" e le invio subito i dettagli. Grazie!
+
+  [2] Salve CRYSTAL NAILS CATANIA, sono Salvatore di Nailstech (Quadro srls).
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+Le interessa ricevere un preventivo senza impegno?
+Mi basta un "Sì" e le invio subito i dettagli. Grazie!
+
+  [3] Salve Laser & Beauty, sono Salvatore di Nailstech (Quadro srls).
+Offriamo stampanti per nail art in noleggio per centri estetici come il suo.
+Le interessa ricevere un preventivo senza impegno?
+Mi basta un "Sì" e le invio subito i dettagli. Grazie!
+
+  Totale contatti: 98
+
+
+######################################################################
+# CAMPAGNA: EXPANSION - 5 varianti A/B (ultima versione)
+# File: expansion_links.txt
+######################################################################
+
+Messaggi esempio (decodificati):
+
+  [1] Ciao Grazia, sono Salvatore di NailsTech. Un centro come il suo può guadagnare 300-500€ in più a settimana con un servizio che richiede zero competenze extra. Le lascio il link per capire di cosa parlo: https://ioilmio.github.io/nailstech/
+
+  [2] Buongiorno, sono Salvatore di NailsTech. Le scrivo perché molti centri stanno cercando modi per attirare clienti nuove con servizi diversi dal solito. Noi offriamo esattamente questo. Le lascio il link se vuole dare un'occhiata: https://ioilmio.github.io/nailstech/
+
+  [3] Buongiorno, sono Salvatore di NailsTech. A Catania ancora quasi nessun centro ha la stampa nail art automatica - chi arriva prima avrà un bel vantaggio. Se vuole vedere come funziona: https://ioilmio.github.io/nailstech/
+
+  Totale contatti: 73
+
+
+######################################################################
+# VARIANTI ATTUALMENTE IN TEST (expansion_links.txt)
+######################################################################
+
+  Variante A - Esclusività locale:
+  "Ciao {nome}, sono Salvatore di NailsTech. Stiamo selezionando pochi centri a Catania per offrire un servizio di nail art automatizzata che ancora nessuno ha in zona. Il suo centro mi sembra adatto. Guardi qui: https://ioilmio.github.io/nailstech/ Se le interessa, mi faccia sapere!"
+
+  Variante B - Beneficio clienti:
+  "Ciao {nome}, sono Salvatore di NailsTech. Le scrivo perché molti centri stanno cercando modi per attirare clienti nuove con servizi diversi dal solito. Noi offriamo esattamente questo. Le lascio il link se vuole dare un'occhiata: https://ioilmio.github.io/nailstech/"
+
+  Variante C - Domanda diretta:
+  "Ciao {nome}, sono Salvatore di NailsTech. Le chiedo 10 secondi: ha mai pensato di offrire nail art personalizzata senza bisogno di una nail artist? Se è curiosa, qui trova tutto: https://ioilmio.github.io/nailstech/"
+
+  Variante D - Risultato concreto:
+  "Ciao {nome}, sono Salvatore di NailsTech. Un centro come il suo può guadagnare 300-500€ in più a settimana con un servizio che richiede zero competenze extra. Le lascio il link per capire di cosa parlo: https://ioilmio.github.io/nailstech/"
+
+  Variante E - FOMO + novità:
+  "Ciao {nome}, sono Salvatore di NailsTech. A Catania ancora quasi nessun centro ha la stampa nail art automatica - chi arriva prima avrà un bel vantaggio. Se vuole vedere come funziona: https://ioilmio.github.io/nailstech/"
+
+
+######################################################################
+# RISPOSTE RICEVUTE (feedback reali)
+######################################################################
+
+  EXP006 (Variante A - Esclusività): NEGATIVA
+  Risposta: 'Come le dicevo prima io faccio extension ciglia non faccio unghie,
+  perciò per me è impossibile prima dovrei fare le unghie per metterle all interno del macchinario'
+  Nota: target sbagliato (salone ciglia, non unghie)
+
+  NOTA: Open rate generale molto basso nelle campagne precedenti.
+  La maggior parte dei messaggi non riceve risposta.
+
+
+######################################################################
+# CONTESTO BUSINESS
+######################################################################
+
+  Prodotto: Noleggio stampante nail art (NailsTech NT-N403)
+  Prezzo: ~100€/giorno per eventi, pacchetti settimanali disponibili
+  Target: Centri estetici, saloni unghie, nail bar a Catania e dintorni
+  Canale: WhatsApp cold outreach
+  Sito: https://ioilmio.github.io/nailstech/
+  Totale contatti processati: ~250+
+  Problema principale: basso tasso di apertura/risposta
+
+######################################################################
+# PIVOT STRATEGY (2026-06-10) - Nuova direzione
+######################################################################
+
+  DIAGNOSI:
+  - Approccio troppo commerciale ("Offriamo stampanti...") = ghosting
+  - Link nel primo messaggio non cliccabili su WhatsApp (numero non salvato)
+  - Prezzo nel primo messaggio sposta focus su costo, non guadagno
+  - Lista contatti non qualificata (es. centri ciglia, non unghie)
+
+  NUOVE REGOLE:
+  1. NO link nel primo messaggio
+  2. NO prezzo nel primo messaggio
+  3. Domanda che richiede risposta facile
+  4. Vendere la RISPOSTA, non la stampante
+
+  NUOVE VARIANTI:
+  A) FOMO Esclusività Zona:
+  "{saluto}, sono Salvatore di NailsTech. Domanda rapida: nel vostro centro
+  fate già nail art o avete mai pensato di offrire stampa digitale sulle
+  unghie (loghi, foto, design complessi in 30 secondi)? Stiamo cercando un
+  centro partner a Catania per l'esclusiva di zona. Grazie!"
+
+  B) Open Day Rischio Zero:
+  "{saluto}, sono Salvatore. Stiamo organizzando delle giornate dimostrative
+  gratuite a Catania per far provare alle clienti dei centri la stampa nail
+  art immediata. Vi interesserebbe ospitare una giornata test a costo zero?
+  Porta visibilità e clienti nuove al centro. Un saluto!"
+
+  C) Video Permission:
+  "{saluto}, sono Salvatore di NailsTech. Abbiamo un sistema che permette di
+  stampare qualsiasi grafica sulle unghie in 20 secondi, anche senza
+  competenze di nail art. Posso mandarti un video di 15 secondi per farti
+  vedere come funziona?"

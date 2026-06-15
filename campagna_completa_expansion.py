@@ -98,7 +98,7 @@ def crea_campagna_completa():
         return
     
     # Usa la strategia migliore dall'A/B test (per ora Strategia A - Valore e Contesto)
-    strategia_vincente = """Salve {nome_salone}, sono Salvatore di Nailstech. Ho notato il suo centro e penso che una stampante per nail art potrebbe aumentare i suoi clienti. A 100€/giorno le permette di offrire design unici che i concorrenti non hanno. Le interessa scoprire come funziona?"""
+    strategia_vincente = """Salve {nome_salone}, sono Salvatore di Nailstech. Ho notato il suo centro e penso che una stampante per nail art potrebbe aumentare i suoi clienti. A 100€/giorno le permette di offrire design unici che i concorrenti non hanno. Le interessa scoprire come funziona? Ecco il link https://ioilmio.github.io/nailstech/"""
     
     print(f"\n📱 STRATEGIA SELEZIONATA:")
     print(f"   Valore e Contesto (basata su A/B test)")
